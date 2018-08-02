@@ -1,0 +1,26 @@
+/*****Base Styles*****/
+body {
+  font-family: 'Gafata', sans-serif;
+  color: #383838;
+}
+
+/*******GRID*****/
+.full-width {
+    width: 1200px;
+    margin: auto;
+}
+.third-width {
+   height: 400px;
+   float: left;
+}
+header {
+  padding: 20px 20px 10px 40px;
+}
+header a {
+  text-decoration: none;
+  color: #383838;
+}
+footer {
+  float: left;
+  padding: 15px 15px 15px 40px;
+}
